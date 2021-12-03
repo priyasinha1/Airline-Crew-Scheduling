@@ -35,6 +35,5 @@ To determine –
 
 •	Assigning the paired crew to the scheduled flights.
 
-
 Our main goal is to determine the initial allocation of flights to destinations and crew pairs to flights, while minimising the number of planes used and travel time. 
 
