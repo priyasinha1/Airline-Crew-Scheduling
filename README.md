@@ -1,6 +1,7 @@
 # Airline-Crew-Scheduling
 Our goal of this project is to optimize the airline scheduling and crew scheduling. Also, we are focusing on merging them together to see if we are able to get to our final solution.
 
+
 Flight Scheduling:
 The Flight Scheduling helps to get a feasible plan on where to fly/ which city to fly and on what time. So, it is important to generate a plan that covers all our scheduled flights and also helps in reducing the overall cost.
 
